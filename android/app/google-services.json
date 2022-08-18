@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "864332053212",
+    "project_id": "bahriahomeservice",
+    "storage_bucket": "bahriahomeservice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864332053212:android:6cc5dcee7f8725ab61d219",
+        "android_client_info": {
+          "package_name": "com.bahriatown.design"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864332053212-5kv0popmqp9gnvhpu144osk2f8qm4lb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYVCgAo2q4UlJkfmH1Dyi8aaAz2dSj5TU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864332053212-5kv0popmqp9gnvhpu144osk2f8qm4lb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
